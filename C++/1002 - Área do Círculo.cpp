@@ -1,4 +1,12 @@
-// David "Dede" Ribeiro - 2021 - @ddavidi_ 
+/* 
+   ==UserScript==
+ @name         Área do Círculo
+ @namespace    https://github.com/Ddavidi/uri-online-judge-beecrowd
+ @description  URI 1002 - Área do Círculo
+ @copyright    @ddavidi_
+ @author       @ddavidi_	
+   ==/UserScript==
+*/
 
 #include <iostream>
 #include <cmath>

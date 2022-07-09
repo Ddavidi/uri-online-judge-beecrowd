@@ -1,4 +1,12 @@
-// David "Dede" Ribeiro - 2022 - @ddavidi_
+/* 
+   ==UserScript==
+ @name         Cédulas
+ @namespace    https://github.com/Ddavidi/uri-online-judge-beecrowd
+ @description  URI 1018 - Cédulas
+ @copyright    @ddavidi_
+ @author       @ddavidi_	
+   ==/UserScript==
+*/
 
 import java.util.Scanner;
 import java.io.IOException;

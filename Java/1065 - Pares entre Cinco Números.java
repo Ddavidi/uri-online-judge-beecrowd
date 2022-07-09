@@ -2,7 +2,7 @@
    ==UserScript==
  @name         Pares entre Cinco Números
  @namespace    https://github.com/Ddavidi/uri-online-judge-beecrowd
- @description  URI  1065 - Pares entre Cinco Números
+ @description  URI 1065 - Pares entre Cinco Números
  @copyright    @ddavidi_
  @author       @ddavidi_	
    ==/UserScript==

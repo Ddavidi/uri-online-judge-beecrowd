@@ -1,6 +1,6 @@
 /* 
    ==UserScript==
- @name		   Hello World!
+ @name         Hello World!
  @namespace   	https://github.com/Ddavidi/uri-online-judge-beecrowd
  @description 	URI 1000 - Hello World!
  @copyright   	@ddavidi_

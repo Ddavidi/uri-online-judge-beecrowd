@@ -1,4 +1,12 @@
-// David "Dede" Ribeiro - 2022 - @ddavidi_
+/* 
+   ==UserScript==
+ @name         Extremamente Básico
+ @namespace    https://github.com/Ddavidi/uri-online-judge-beecrowd
+ @description  URI 1001 - Extremamente Básico
+ @copyright    @ddavidi_
+ @author       @ddavidi_	
+   ==/UserScript==
+*/
 
 import java.io.IOException;
 import java.util.Scanner; 

@@ -1,4 +1,12 @@
-// David "Dede" Ribeiro - 2021 - @ddavidi
+/* 
+   ==UserScript==
+ @name         Esfera
+ @namespace    https://github.com/Ddavidi/uri-online-judge-beecrowd
+ @description  URI 1011 - Esfera
+ @copyright    @ddavidi_
+ @author       @ddavidi_	
+   ==/UserScript==
+*/
 
 using System; 
 

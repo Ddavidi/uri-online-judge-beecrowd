@@ -1,4 +1,12 @@
-// David "Dede" Ribeiro - 2021 - @ddavidi_
+/* 
+   ==UserScript==
+ @name         Cálculo Simples
+ @namespace    https://github.com/Ddavidi/uri-online-judge-beecrowd
+ @description  URI 1010 - Cálculo Simples
+ @copyright    @ddavidi_
+ @author       @ddavidi_	
+   ==/UserScript==
+*/
 
 using System;
 

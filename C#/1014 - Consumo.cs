@@ -1,4 +1,12 @@
-// David "Dede" Ribeiro - 2021 - @ddavidi
+/* 
+   ==UserScript==
+ @name         Consumo
+ @namespace    https://github.com/Ddavidi/uri-online-judge-beecrowd
+ @description  URI 1014 - Consumo
+ @copyright    @ddavidi_
+ @author       @ddavidi_	
+   ==/UserScript==
+*/
 
 using System; 
 

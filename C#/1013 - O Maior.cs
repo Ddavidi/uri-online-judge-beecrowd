@@ -1,4 +1,12 @@
-// David "Dede" Ribeiro - 2021 - @ddavidi
+/* 
+   ==UserScript==
+ @name         O Maior
+ @namespace    https://github.com/Ddavidi/uri-online-judge-beecrowd
+ @description  URI 1013 - O Maior
+ @copyright    @ddavidi_
+ @author       @ddavidi_	
+   ==/UserScript==
+*/
 
 using System; 
 

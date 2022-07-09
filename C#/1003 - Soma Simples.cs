@@ -1,4 +1,12 @@
-// David "Dede" Ribeiro - 2021 - @ddavidi_
+/* 
+   ==UserScript==
+ @name         Soma Simples
+ @namespace    https://github.com/Ddavidi/uri-online-judge-beecrowd
+ @description  URI 1003 - Soma Simples
+ @copyright    @ddavidi_
+ @author       @ddavidi_	
+   ==/UserScript==
+*/
 
 using System;
 

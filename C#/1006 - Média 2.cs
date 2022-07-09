@@ -1,4 +1,12 @@
-// David "Dede" Ribeiro - 2021 - @ddavidi_
+/* 
+   ==UserScript==
+ @name         Média 2
+ @namespace    https://github.com/Ddavidi/uri-online-judge-beecrowd
+ @description  URI 1006 - Média 2
+ @copyright    @ddavidi_
+ @author       @ddavidi_	
+   ==/UserScript==
+*/
 
 using System;
 

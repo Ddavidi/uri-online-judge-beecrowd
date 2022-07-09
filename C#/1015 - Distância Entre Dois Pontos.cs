@@ -1,4 +1,12 @@
-// David "Dede" Ribeiro - 2021 - @ddavidi
+/* 
+   ==UserScript==
+ @name         Distância Entre Dois Pontos
+ @namespace    https://github.com/Ddavidi/uri-online-judge-beecrowd
+ @description  URI 1015 - Distância Entre Dois Pontos
+ @copyright    @ddavidi_
+ @author       @ddavidi_	
+   ==/UserScript==
+*/
 
 using System; 
 

@@ -1,4 +1,12 @@
-// David "Dede" Ribeiro - 2021 - @ddavidi
+/* 
+   ==UserScript==
+ @name         Área
+ @namespace    https://github.com/Ddavidi/uri-online-judge-beecrowd
+ @description  URI 1012 - Área
+ @copyright    @ddavidi_
+ @author       @ddavidi_	
+   ==/UserScript==
+*/
 
 using System; 
 

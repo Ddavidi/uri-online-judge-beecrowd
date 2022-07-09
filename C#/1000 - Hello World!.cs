@@ -1,4 +1,12 @@
-// David "Dede" Ribeiro - 2021 - @ddavidi_ 
+/* 
+   ==UserScript==
+ @name		    Hello World!
+ @namespace   	https://github.com/Ddavidi
+ @description 	URI 1000 - Hello World!
+ @copyright   	@ddavidi_
+ @author        @ddavidi_	
+   ==/UserScript==
+*/
 
 using System; 
 

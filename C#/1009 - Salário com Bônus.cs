@@ -1,4 +1,12 @@
-// David "Dede" Ribeiro - 2021 - @ddavidi_
+/* 
+   ==UserScript==
+ @name         Salário com Bônus
+ @namespace    https://github.com/Ddavidi/uri-online-judge-beecrowd
+ @description  URI 1009 - Salário com Bônus
+ @copyright    @ddavidi_
+ @author       @ddavidi_	
+   ==/UserScript==
+*/
 
 using System;
 

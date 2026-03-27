@@ -1,0 +1,52 @@
+# =========================
+# C / C++
+# =========================
+# Executáveis Windows
+*.exe
+# Arquivos objeto e binários (Linux/Mac)
+*.o
+*.out
+*.app
+# Arquivos de debug do compilador
+*.pdb
+*.ilk
+
+# =========================
+# C# / .NET
+# =========================
+# Pastas de build geradas pelo C#
+[Bb]in/
+[Oo]bj/
+# Bibliotecas e executáveis
+*.dll
+*.user
+
+# =========================
+# Java
+# =========================
+# Arquivos compilados do Java
+*.class
+*.jar
+
+# =========================
+# Python
+# =========================
+# Cache e arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+# Ambientes virtuais (caso crie no futuro)
+venv/
+env/
+.env
+
+# =========================
+# IDEs e Editores
+# =========================
+# Opcional: Ignorar configurações locais do VS Code 
+# (remova essa linha se quiser salvar suas configurações do VS Code no GitHub)
+.vscode/
+
+# Ignorar pastas ocultas do sistema operacional (Windows/Mac)
+.DS_Store
+Thumbs.db

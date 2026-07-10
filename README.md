@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://resources.beecrowd.com/wp-content/uploads/2024/02/logo-beecrowd.svg" alt="Beecrowd Logo" width="300" />
   <h1>Algoritmos e Estruturas de Dados - Beecrowd</h1>
   <p><strong>Meu armazém pessoal de soluções de programação competitiva e algoritmos.</strong></p>
 </div>
